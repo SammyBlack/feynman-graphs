@@ -1,0 +1,65 @@
+    Pw0:   True  None
+    Pw1:   True  None
+    Pw2:   True  None
+    Pw3:   True  None
+    Pw4:  False  [13, 3, 4, 5, 9]
+    Pw5:  False  [3, 4, 5, 9, 10]
+    Pw6:  False  [3, 4, 5, 9, 13]
+    Pw7:  False  [3, 4, 5, 9, 16]
+    Pw8:  False  [3, 4, 5, 9, 16]
+    Pw9:  False  [3, 4, 5, 9, 17]
+   Pw10:  False  [12, 3, 4, 5, 9]
+   Pw11:  False  [3, 4, 5, 9, 12]
+   Pw12:  False  [3, 4, 5, 9, 15]
+   Pw13:  False  [3, 4, 5, 9, 15]
+   Pw14:  False  [3, 4, 5, 9, 17]
+   Pw15:   True  None
+   Pw16:  False  [3, 4, 5, 14, 15]
+   Pw17:  False  [3, 4, 5, 14, 17]
+   Pw18:  False  [11, 3, 4, 5, 15]
+   Pw19:  False  [12, 13, 3, 4, 8]
+   Pw20:  False  [13, 3, 4, 8, 14]
+   Pw21:  False  [3, 4, 8, 14, 15]
+   Pw22:  False  [3, 4, 8, 14, 17]
+   Pw23:   True  None
+   Pw24:  False  [12, 3, 4, 8, 11]
+   Pw25:  False  [3, 4, 8, 11, 14]
+   Pw26:  False  [3, 4, 8, 11, 14]
+   Pw27:  False  [3, 4, 8, 11, 16]
+   Pw28:   True  None
+   Pw29:  False  [3, 4, 8, 13, 14]
+   Pw30:  False  [3, 4, 8, 13, 17]
+   Pw31:  False  [11, 3, 4, 8, 13]
+   Pw32:  False  [3, 4, 8, 13, 16]
+   Pw33:   True  None
+   Pw34:   True  None
+   Pw35:   True  None
+   Pw36:  False  [3, 4, 12, 13, 16]
+   Pw37:   True  None
+   Pw38:   True  None
+   Pw39:   True  None
+   Pw40:   True  None
+   Pw41:  False  [11, 3, 4, 8, 10]
+   Pw42:  False  [3, 4, 8, 10, 14]
+   Pw43:  False  [3, 4, 8, 10, 14]
+   Pw44:  False  [3, 4, 8, 10, 16]
+   Pw45:   True  None
+   Pw46:  False  [3, 4, 8, 13, 14]
+   Pw47:  False  [3, 4, 8, 13, 17]
+   Pw48:   True  None
+   Pw49:  False  [3, 4, 8, 13, 16]
+   Pw50:   True  None
+   Pw51:   True  None
+   Pw52:  False  [3, 4, 9, 13, 14]
+   Pw53:  False  [3, 4, 9, 13, 16]
+   Pw54:   True  None
+   Pw55:   True  None
+   Pw56:   True  None
+   Pw57:   True  None
+   Pw58:   True  None
+   Pw59:  False  [1, 10, 3, 8, 11]
+   Pw60:   True  None
+   Pw61:   True  None
+   Pw62:   True  None
+   Pw63:   True  None
+   Pw64:  False  [0, 9, 3, 6, 8]

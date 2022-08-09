@@ -1,0 +1,386 @@
+   TUw0:   True  None
+   TUw1:   True  None
+   TUw2:   True  None
+   TUw3:   True  None
+   TUw4:   True  None
+   TUw5:  False  [4, 5, 6, 7, 11]
+   TUw6:  False  [4, 5, 6, 7, 11]
+   TUw7:  False  [4, 5, 6, 7, 13]
+   TUw8:  False  [4, 5, 6, 7, 16]
+   TUw9:  False  [4, 5, 6, 7, 16]
+  TUw10:  False  [4, 5, 6, 7, 18]
+  TUw11:  False  [14, 4, 5, 6, 10]
+  TUw12:  False  [4, 5, 6, 10, 11]
+  TUw13:  False  [4, 5, 6, 10, 14]
+  TUw14:  False  [4, 5, 6, 10, 17]
+  TUw15:  False  [4, 5, 6, 10, 17]
+  TUw16:  False  [4, 5, 6, 10, 18]
+  TUw17:  False  [13, 4, 5, 6, 10]
+  TUw18:  False  [4, 5, 6, 10, 13]
+  TUw19:  False  [4, 5, 6, 10, 16]
+  TUw20:  False  [4, 5, 6, 10, 16]
+  TUw21:  False  [4, 5, 6, 10, 18]
+  TUw22:  False  [13, 4, 5, 6, 12]
+  TUw23:  False  [4, 5, 6, 12, 16]
+  TUw24:  False  [4, 5, 6, 12, 16]
+  TUw25:  False  [4, 5, 6, 12, 17]
+  TUw26:   True  None
+  TUw27:  False  [4, 5, 6, 15, 16]
+  TUw28:  False  [4, 5, 6, 15, 18]
+  TUw29:   True  None
+  TUw30:  False  [4, 5, 6, 15, 17]
+  TUw31:  False  [12, 4, 5, 6, 16]
+  TUw32:   True  None
+  TUw33:  False  [2, 4, 5, 6, 10]
+  TUw34:  False  [4, 5, 6, 10, 11]
+  TUw35:  False  [4, 5, 6, 10, 14]
+  TUw36:  False  [4, 5, 6, 10, 16]
+  TUw37:  False  [4, 5, 6, 10, 16]
+  TUw38:  False  [4, 5, 6, 10, 18]
+  TUw39:  False  [2, 4, 5, 6, 10]
+  TUw40:  False  [4, 5, 6, 10, 13]
+  TUw41:  False  [4, 5, 6, 10, 15]
+  TUw42:  False  [4, 5, 6, 10, 15]
+  TUw43:  False  [4, 5, 6, 10, 18]
+  TUw44:  False  [2, 4, 5, 6, 12]
+  TUw45:  False  [4, 5, 6, 12, 15]
+  TUw46:  False  [4, 5, 6, 12, 15]
+  TUw47:  False  [4, 5, 6, 12, 17]
+  TUw48:   True  None
+  TUw49:  False  [4, 5, 6, 14, 15]
+  TUw50:  False  [4, 5, 6, 14, 18]
+  TUw51:  False  [2, 4, 5, 6, 14]
+  TUw52:  False  [4, 5, 6, 14, 17]
+  TUw53:  False  [2, 4, 5, 6, 16]
+  TUw54:  False  [2, 13, 4, 5, 9]
+  TUw55:  False  [2, 4, 5, 9, 10]
+  TUw56:  False  [4, 5, 9, 10, 14]
+  TUw57:  False  [4, 5, 9, 10, 16]
+  TUw58:  False  [4, 5, 9, 10, 16]
+  TUw59:  False  [4, 5, 9, 10, 18]
+  TUw60:  False  [2, 4, 5, 9, 13]
+  TUw61:  False  [4, 5, 9, 13, 16]
+  TUw62:  False  [4, 5, 9, 13, 16]
+  TUw63:  False  [4, 5, 9, 13, 17]
+  TUw64:  False  [2, 4, 5, 9, 15]
+  TUw65:  False  [4, 5, 9, 15, 16]
+  TUw66:  False  [4, 5, 9, 15, 18]
+  TUw67:  False  [2, 4, 5, 9, 15]
+  TUw68:  False  [4, 5, 9, 15, 17]
+  TUw69:  False  [2, 4, 5, 9, 16]
+  TUw70:  False  [2, 12, 4, 5, 9]
+  TUw71:  False  [2, 4, 5, 9, 12]
+  TUw72:  False  [4, 5, 9, 12, 15]
+  TUw73:  False  [4, 5, 9, 12, 15]
+  TUw74:  False  [4, 5, 9, 12, 17]
+  TUw75:  False  [2, 4, 5, 9, 14]
+  TUw76:  False  [4, 5, 9, 14, 15]
+  TUw77:  False  [4, 5, 9, 14, 18]
+  TUw78:  False  [2, 4, 5, 9, 14]
+  TUw79:  False  [4, 5, 9, 14, 17]
+  TUw80:  False  [2, 4, 5, 9, 16]
+  TUw81:   True  None
+  TUw82:  False  [13, 4, 5, 11, 14]
+  TUw83:  False  [4, 5, 11, 14, 15]
+  TUw84:  False  [4, 5, 11, 14, 17]
+  TUw85:   True  None
+  TUw86:  False  [4, 5, 11, 14, 16]
+  TUw87:   True  None
+  TUw88:   True  None
+  TUw89:   True  None
+  TUw90:  False  [4, 5, 13, 14, 17]
+  TUw91:   True  None
+  TUw92:   True  None
+  TUw93:   True  None
+  TUw94:   True  None
+  TUw95:   True  None
+  TUw96:   True  None
+  TUw97:   True  None
+  TUw98:  False  [4, 5, 6, 10, 11]
+  TUw99:  False  [4, 5, 6, 10, 13]
+ TUw100:  False  [4, 5, 6, 10, 16]
+ TUw101:  False  [4, 5, 6, 10, 16]
+ TUw102:  False  [4, 5, 6, 10, 18]
+ TUw103:   True  None
+ TUw104:  False  [4, 5, 6, 10, 12]
+ TUw105:  False  [4, 5, 6, 10, 15]
+ TUw106:  False  [4, 5, 6, 10, 15]
+ TUw107:  False  [4, 5, 6, 10, 18]
+ TUw108:   True  None
+ TUw109:  False  [4, 5, 6, 11, 15]
+ TUw110:  False  [4, 5, 6, 11, 15]
+ TUw111:  False  [4, 5, 6, 11, 17]
+ TUw112:   True  None
+ TUw113:  False  [4, 5, 6, 14, 15]
+ TUw114:  False  [4, 5, 6, 14, 18]
+ TUw115:   True  None
+ TUw116:  False  [4, 5, 6, 14, 17]
+ TUw117:   True  None
+ TUw118:   True  None
+ TUw119:  False  [13, 4, 5, 9, 10]
+ TUw120:  False  [4, 5, 9, 10, 13]
+ TUw121:  False  [4, 5, 9, 10, 16]
+ TUw122:  False  [4, 5, 9, 10, 16]
+ TUw123:  False  [4, 5, 9, 10, 18]
+ TUw124:  False  [13, 4, 5, 9, 12]
+ TUw125:  False  [4, 5, 9, 12, 16]
+ TUw126:  False  [4, 5, 9, 12, 16]
+ TUw127:  False  [4, 5, 9, 12, 17]
+ TUw128:   True  None
+ TUw129:  False  [4, 5, 9, 15, 16]
+ TUw130:  False  [4, 5, 9, 15, 18]
+ TUw131:   True  None
+ TUw132:  False  [4, 5, 9, 15, 17]
+ TUw133:  False  [12, 4, 5, 9, 16]
+ TUw134:   True  None
+ TUw135:  False  [12, 4, 5, 9, 11]
+ TUw136:  False  [4, 5, 9, 11, 15]
+ TUw137:  False  [4, 5, 9, 11, 15]
+ TUw138:  False  [4, 5, 9, 11, 17]
+ TUw139:   True  None
+ TUw140:  False  [4, 5, 9, 14, 15]
+ TUw141:  False  [4, 5, 9, 14, 18]
+ TUw142:   True  None
+ TUw143:  False  [4, 5, 9, 14, 17]
+ TUw144:  False  [11, 4, 5, 9, 16]
+ TUw145:  False  [1, 11, 4, 5, 10]
+ TUw146:  False  [1, 4, 5, 10, 14]
+ TUw147:  False  [4, 5, 10, 14, 15]
+ TUw148:  False  [4, 5, 10, 14, 17]
+ TUw149:  False  [1, 4, 5, 10, 14]
+ TUw150:  False  [4, 5, 10, 14, 16]
+ TUw151:  False  [1, 4, 5, 10, 15]
+ TUw152:   True  None
+ TUw153:  False  [1, 4, 5, 13, 14]
+ TUw154:  False  [4, 5, 13, 14, 17]
+ TUw155:   True  None
+ TUw156:  False  [1, 4, 5, 13, 15]
+ TUw157:  False  [1, 10, 4, 5, 14]
+ TUw158:   True  None
+ TUw159:   True  None
+ TUw160:  False  [2, 4, 5, 9, 10]
+ TUw161:  False  [4, 5, 9, 10, 13]
+ TUw162:  False  [4, 5, 9, 10, 15]
+ TUw163:  False  [4, 5, 9, 10, 15]
+ TUw164:  False  [4, 5, 9, 10, 18]
+ TUw165:  False  [2, 4, 5, 9, 12]
+ TUw166:  False  [4, 5, 9, 12, 15]
+ TUw167:  False  [4, 5, 9, 12, 15]
+ TUw168:  False  [4, 5, 9, 12, 17]
+ TUw169:   True  None
+ TUw170:  False  [4, 5, 9, 14, 15]
+ TUw171:  False  [4, 5, 9, 14, 18]
+ TUw172:  False  [2, 4, 5, 9, 14]
+ TUw173:  False  [4, 5, 9, 14, 17]
+ TUw174:  False  [2, 4, 5, 9, 16]
+ TUw175:   True  None
+ TUw176:  False  [2, 4, 5, 9, 11]
+ TUw177:  False  [4, 5, 9, 11, 14]
+ TUw178:  False  [4, 5, 9, 11, 14]
+ TUw179:  False  [4, 5, 9, 11, 17]
+ TUw180:  False  [2, 4, 5, 9, 13]
+ TUw181:  False  [4, 5, 9, 13, 17]
+ TUw182:  False  [2, 4, 5, 9, 16]
+ TUw183:   True  None
+ TUw184:   True  None
+ TUw185:  False  [4, 5, 10, 13, 14]
+ TUw186:  False  [4, 5, 10, 13, 17]
+ TUw187:   True  None
+ TUw188:  False  [4, 5, 10, 13, 16]
+ TUw189:   True  None
+ TUw190:   True  None
+ TUw191:   True  None
+ TUw192:   True  None
+ TUw193:   True  None
+ TUw194:   True  None
+ TUw195:  False  [2, 12, 4, 8, 9]
+ TUw196:  False  [2, 4, 8, 9, 12]
+ TUw197:  False  [4, 8, 9, 12, 15]
+ TUw198:  False  [4, 8, 9, 12, 15]
+ TUw199:  False  [4, 8, 9, 12, 17]
+ TUw200:  False  [2, 4, 8, 9, 14]
+ TUw201:  False  [4, 8, 9, 14, 17]
+ TUw202:  False  [2, 4, 8, 9, 16]
+ TUw203:   True  None
+ TUw204:  False  [13, 4, 8, 11, 14]
+ TUw205:  False  [4, 8, 11, 14, 15]
+ TUw206:  False  [4, 8, 11, 14, 17]
+ TUw207:   True  None
+ TUw208:  False  [4, 8, 11, 14, 16]
+ TUw209:   True  None
+ TUw210:   True  None
+ TUw211:   True  None
+ TUw212:  False  [4, 8, 13, 14, 17]
+ TUw213:   True  None
+ TUw214:   True  None
+ TUw215:   True  None
+ TUw216:   True  None
+ TUw217:   True  None
+ TUw218:   True  None
+ TUw219:  False  [4, 8, 10, 13, 16]
+ TUw220:   True  None
+ TUw221:   True  None
+ TUw222:   True  None
+ TUw223:   True  None
+ TUw224:   True  None
+ TUw225:  False  [1, 11, 4, 9, 12]
+ TUw226:   True  None
+ TUw227:  False  [1, 4, 9, 12, 14]
+ TUw228:   True  None
+ TUw229:   True  None
+ TUw230:   True  None
+ TUw231:   True  None
+ TUw232:   True  None
+ TUw233:   True  None
+ TUw234:   True  None
+ TUw235:   True  None
+ TUw236:   True  None
+ TUw237:  False  [4, 5, 6, 9, 10]
+ TUw238:  False  [4, 5, 6, 9, 13]
+ TUw239:  False  [4, 5, 6, 9, 16]
+ TUw240:  False  [4, 5, 6, 9, 16]
+ TUw241:  False  [4, 5, 6, 9, 18]
+ TUw242:   True  None
+ TUw243:  False  [4, 5, 6, 9, 12]
+ TUw244:  False  [4, 5, 6, 9, 15]
+ TUw245:  False  [4, 5, 6, 9, 15]
+ TUw246:  False  [4, 5, 6, 9, 18]
+ TUw247:   True  None
+ TUw248:  False  [4, 5, 6, 11, 15]
+ TUw249:  False  [4, 5, 6, 11, 15]
+ TUw250:  False  [4, 5, 6, 11, 17]
+ TUw251:  False  [0, 4, 5, 6, 14]
+ TUw252:  False  [4, 5, 6, 14, 17]
+ TUw253:  False  [0, 4, 5, 6, 16]
+ TUw254:   True  None
+ TUw255:  False  [13, 4, 5, 8, 9]
+ TUw256:  False  [4, 5, 8, 9, 13]
+ TUw257:  False  [4, 5, 8, 9, 16]
+ TUw258:  False  [4, 5, 8, 9, 16]
+ TUw259:  False  [4, 5, 8, 9, 18]
+ TUw260:  False  [13, 4, 5, 8, 12]
+ TUw261:  False  [4, 5, 8, 12, 16]
+ TUw262:  False  [4, 5, 8, 12, 16]
+ TUw263:  False  [4, 5, 8, 12, 17]
+ TUw264:   True  None
+ TUw265:  False  [4, 5, 8, 15, 17]
+ TUw266:  False  [12, 4, 5, 8, 16]
+ TUw267:  False  [0, 11, 4, 5, 8]
+ TUw268:  False  [12, 4, 5, 8, 11]
+ TUw269:  False  [4, 5, 8, 11, 15]
+ TUw270:  False  [4, 5, 8, 11, 15]
+ TUw271:  False  [4, 5, 8, 11, 17]
+ TUw272:  False  [0, 4, 5, 8, 14]
+ TUw273:  False  [4, 5, 8, 14, 17]
+ TUw274:  False  [0, 4, 5, 8, 16]
+ TUw275:   True  None
+ TUw276:   True  None
+ TUw277:  False  [4, 5, 10, 14, 16]
+ TUw278:   True  None
+ TUw279:   True  None
+ TUw280:  False  [0, 4, 5, 13, 15]
+ TUw281:  False  [0, 10, 4, 5, 14]
+ TUw282:   True  None
+ TUw283:   True  None
+ TUw284:  False  [2, 4, 5, 8, 9]
+ TUw285:  False  [4, 5, 8, 9, 13]
+ TUw286:  False  [4, 5, 8, 9, 15]
+ TUw287:  False  [4, 5, 8, 9, 15]
+ TUw288:  False  [4, 5, 8, 9, 18]
+ TUw289:  False  [2, 4, 5, 8, 12]
+ TUw290:  False  [4, 5, 8, 12, 15]
+ TUw291:  False  [4, 5, 8, 12, 15]
+ TUw292:  False  [4, 5, 8, 12, 17]
+ TUw293:  False  [2, 4, 5, 8, 14]
+ TUw294:  False  [4, 5, 8, 14, 17]
+ TUw295:  False  [2, 4, 5, 8, 16]
+ TUw296:   True  None
+ TUw297:  False  [2, 4, 5, 8, 11]
+ TUw298:  False  [4, 5, 8, 11, 14]
+ TUw299:  False  [4, 5, 8, 11, 14]
+ TUw300:  False  [4, 5, 8, 11, 17]
+ TUw301:  False  [2, 4, 5, 8, 13]
+ TUw302:  False  [4, 5, 8, 13, 17]
+ TUw303:   True  None
+ TUw304:   True  None
+ TUw305:  False  [4, 5, 10, 13, 16]
+ TUw306:   True  None
+ TUw307:  False  [0, 2, 4, 5, 12]
+ TUw308:  False  [0, 2, 4, 5, 14]
+ TUw309:   True  None
+ TUw310:  False  [2, 12, 4, 7, 8]
+ TUw311:  False  [2, 4, 7, 8, 12]
+ TUw312:  False  [4, 7, 8, 12, 15]
+ TUw313:  False  [4, 7, 8, 12, 15]
+ TUw314:  False  [4, 7, 8, 12, 17]
+ TUw315:  False  [2, 4, 7, 8, 14]
+ TUw316:  False  [4, 7, 8, 14, 17]
+ TUw317:   True  None
+ TUw318:   True  None
+ TUw319:  False  [4, 7, 11, 14, 16]
+ TUw320:   True  None
+ TUw321:   True  None
+ TUw322:   True  None
+ TUw323:   True  None
+ TUw324:  False  [0, 2, 10, 4, 7]
+ TUw325:   True  None
+ TUw326:   True  None
+ TUw327:  False  [4, 7, 10, 13, 16]
+ TUw328:  False  [0, 2, 4, 7, 12]
+ TUw329:   True  None
+ TUw330:   True  None
+ TUw331:   True  None
+ TUw332:   True  None
+ TUw333:   True  None
+ TUw334:   True  None
+ TUw335:   True  None
+ TUw336:   True  None
+ TUw337:   True  None
+ TUw338:  False  [4, 5, 8, 9, 12]
+ TUw339:  False  [4, 5, 8, 9, 15]
+ TUw340:  False  [4, 5, 8, 9, 15]
+ TUw341:  False  [4, 5, 8, 9, 18]
+ TUw342:   True  None
+ TUw343:  False  [4, 5, 8, 11, 15]
+ TUw344:  False  [4, 5, 8, 11, 15]
+ TUw345:  False  [4, 5, 8, 11, 17]
+ TUw346:  False  [0, 4, 5, 8, 14]
+ TUw347:  False  [4, 5, 8, 14, 17]
+ TUw348:   True  None
+ TUw349:   True  None
+ TUw350:  False  [4, 5, 8, 10, 14]
+ TUw351:  False  [4, 5, 8, 10, 14]
+ TUw352:  False  [4, 5, 8, 10, 17]
+ TUw353:   True  None
+ TUw354:  False  [0, 4, 5, 9, 13]
+ TUw355:  False  [4, 5, 9, 13, 16]
+ TUw356:   True  None
+ TUw357:   True  None
+ TUw358:   True  None
+ TUw359:  False  [12, 4, 7, 8, 11]
+ TUw360:  False  [4, 7, 8, 11, 15]
+ TUw361:  False  [4, 7, 8, 11, 15]
+ TUw362:  False  [4, 7, 8, 11, 17]
+ TUw363:   True  None
+ TUw364:  False  [4, 7, 8, 14, 17]
+ TUw365:   True  None
+ TUw366:   True  None
+ TUw367:  False  [4, 7, 10, 14, 16]
+ TUw368:   True  None
+ TUw369:   True  None
+ TUw370:  False  [0, 10, 4, 7, 9]
+ TUw371:   True  None
+ TUw372:   True  None
+ TUw373:   True  None
+ TUw374:   True  None
+ TUw375:   True  None
+ TUw376:   True  None
+ TUw377:   True  None
+ TUw378:  False  [4, 7, 10, 13, 16]
+ TUw379:  False  [0, 2, 4, 7, 12]
+ TUw380:   True  None
+ TUw381:   True  None
+ TUw382:   True  None
+ TUw383:   True  None
+ TUw384:   True  None
+ TUw385:   True  None
