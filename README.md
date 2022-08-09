@@ -1,5 +1,4 @@
-# feynman-graphs
-Code and data for mathematical research classifying certain Feynman graphs by forbidden minors 
+Code and data for mathematical research classifying certain Feynman graphs by forbidden minors
 
 # Contents
 - [Code](code)
