@@ -7,7 +7,7 @@ Code and data for mathematical research classifying certain Feynman graphs by fo
 # Research 
 
 ## Description 
-Investigation into combinatorial characterization of weighted Feynman graphs satisfying a certain integration condition motivated by quantum physics. Code is written in [Sage](https://www.sagemath.org) mathematical software (built on Python), and includes a new FeynmanGraph class with specialized methods and auxiliary functions to perform exhaustive searches over classes of graphs and induced subgraphs and spanning trees. 
+Investigation into combinatorial characterization of weighted Feynman graphs satisfying a certain integration condition motivated by quantum physics. Code is primarily written in [Sage](https://www.sagemath.org) mathematical software (built on Python) and C++, and includes a new FeynmanGraph class with specialized methods and auxiliary functions to perform exhaustive searches over classes of graphs and induced subgraphs and spanning trees. 
 
 Data files associated to various named configurations confirm conjectures by brute force that are also proved in the paper using more elegant mathematical arguments. 
 
